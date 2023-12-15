@@ -1,0 +1,288 @@
+body
+  {
+    background-color: burlywood;
+    height: 4200px;
+  }
+
+.family_images
+{
+    cursor: pointer;
+    height: 450px;
+    width: 300px;
+}
+
+.hobbie_images
+{
+    cursor: pointer;
+    height: 400px;
+    width: 300px;
+}
+
+.food_images
+{
+    cursor: pointer;
+    height: 300px;
+    width: 280px;
+}
+
+.stuff_images
+{
+    cursor: pointer;
+    height: 310px;
+    width: 280px;
+}
+
+.mycontainer {
+  width:100%;
+  overflow:auto;
+  border-radius: solid 10px;
+  align-items: center;
+}
+.containerdiv1 {
+  width:25%;
+  float:left;
+}
+
+.containerdiv2 {
+  width:25%;
+  float:left;
+}
+
+.containerdiv3 {
+  width:25%;
+  float:left;
+}
+
+.containerdiv4 {
+  width:25%;
+  float:left;
+}
+
+#main_heading
+{
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+hr
+{
+  height: 10px;
+  width: 1335px;
+  color: white;
+  background-color: white;
+  border-color: transparent;
+}
+
+#Heading
+{
+  color: paleturquoise;
+  font-family: cursive;
+  font-size: 300%;
+}
+
+img {
+  border-radius: 25px;
+}
+
+
+.Heading_image_text
+{
+  color: olive;
+  font-size: x-large;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+button
+{
+  width: 100%;
+  height: 50px;
+  background-color: black;
+  color: yellow;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: large;
+}
+
+button:hover
+{
+  box-shadow: 0 10px 10px 0 black, 0 10px 20px 0 black;
+  background-color: purple; 
+  color: yellow;
+  cursor: pointer;
+}
+
+#main_hr
+{
+  height: 10px;
+  width: 1335px;
+  color: black;
+  background-color: black;
+  border-color: transparent;
+}
+
+table, th, td 
+{
+  border: 1px solid white;
+  width: 1340px;
+  height: fit-content;
+}
+
+table
+{
+    border-collapse: collapse;
+    padding-left: 2px;
+}
+
+tr:hover {background-color: yellow}
+
+th {
+    background-color: black;
+    color: white;
+  }
+
+tr {
+    background-color: transparent;
+    color: olive;
+    font-size: 150%;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+#my_piskel
+{
+    height: 150px;
+}
+
+.important_links
+{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 70px;
+  color: palegoldenrod;
+}
+
+td
+{
+  height: 50px;
+}
+
+#video
+{
+  height: 2800px;
+}
+
+#video_table td
+{
+  height: fit-content;
+  background-color: wheat;
+}
+
+
+#video_piskel
+{
+  height: 200px;
+}
+
+.mycontainer_button {
+  width:200%;
+  overflow:auto;
+  border-radius: solid 10px;
+  align-items: center;
+}
+
+#sub_heading
+{
+  color: olive;
+  font-size: xx-large;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.ptag_1
+{
+  color: teal;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color: wheat;
+  align-content: center;
+  border: 5px solid black;
+  font-size: 20px;
+  padding: 50px;
+  height: 90px;
+  width: 901px;
+  letter-spacing: 0.5px;
+}
+
+.ptag_2
+{
+  color: white;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: saddlebrown;
+  align-content: left;
+  border: 6px solid grey;
+  font-size: 25px;
+  padding: 60px;
+  height: 140px;
+  width: 902px;
+  letter-spacing: 1px;
+}
+
+.ptag_3
+{
+  color: whitesmoke;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  background-color: lightblue;
+  align-content: right;
+  border: 7px solid darkgray;
+  font-size: 30px;
+  padding: 110px;
+  height: 180px;
+  width: 904px;
+  letter-spacing: 1.5px;
+  padding-bottom: 130px;
+}
+
+.ptag_4
+{
+  color: lightslategray;
+  font-family: sans-serif;
+  background-color: lightgoldenrodyellow;
+  align-content: stretch;
+  border: 8px solid gold;
+  font-size: 27px;
+  padding: 75px;
+  height: 175px;
+  width: 905px;
+  letter-spacing: 1.2px;
+}
+
+.ptag_5
+{
+  color: lightpink;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: beige;
+  align-content: first baseline;
+  border: 3px solid powderblue;
+  font-size: 23px;
+  padding: 70px;
+  height: 165px;
+  width: 895px;
+  letter-spacing: 1px;
+}
+
+.all_divs
+{
+  width: 940px;
+}
+
+li
+{
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.oltag
+{
+  width: 1000px;
+}
+
+#wild_page
+{
+  height: 5000px;
+}
